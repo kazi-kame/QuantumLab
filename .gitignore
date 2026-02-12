@@ -13,6 +13,9 @@ build/
 dist/
 *.egg-info/
 
+# PyInstaller (Common for Pygame builds)
+*.spec
+
 # Jupyter
 .ipynb_checkpoints/
 
@@ -30,6 +33,9 @@ Thumbs.db
 # Matplotlib cache
 .matplotlib/
 
-# Pygame compiled artifacts (if any)
+# Pygame compiled artifacts
 *.so
 *.pyd
+
+# Environment Variables (Security)
+.env
