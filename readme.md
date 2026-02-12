@@ -23,7 +23,7 @@ $$
 The stationary eigenvalue problem is:
 
 $$
-- \nabla^2 \psi_n(\mathbf{r}) = E_n \psi_n(\mathbf{r})
+-\nabla^2 \psi_n(\mathbf{r}) = E_n \psi_n(\mathbf{r})
 $$
 
 ## Numerical Discretization
