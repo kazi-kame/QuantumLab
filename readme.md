@@ -1,4 +1,8 @@
 # Quantum Lab
+
+## Demo
+![QuantumLab Demo](media/quantumlab_demo.gif)
+
 ## Spectral Simulation of a Quantum Stadium Billiard
 QuantumLab is an interactive numerical simulation of a two-dimensional quantum billiard system. It computes bound-state eigenfunctions and performs spectral time evolution inside a stadium-type domain inspired by:
 
