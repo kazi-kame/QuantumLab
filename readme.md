@@ -118,13 +118,14 @@ It does not include semiclassical monodromy matrix analysis or Lyapunov exponent
 
 ## Controls
 
-| **Key** | **Action** | 
-| **Mouse Drag** | Initialize and launch a Gaussian wavepacket with momentum $(p_x, p_y)$ | 
-| **Space** | Pause / Resume time evolution | 
-| **R** | Re-diagonalize the Hamiltonian (triggers after parameter changes) | 
-| **V** | Toggle View Mode (Density \$ | 
-| **P** | Cycle Phase Space Mode (Off $\to$ Husimi $\to$ Wigner) | 
-| **C** | Cycle Colormaps | 
+| **Key** | **Action** |
+| :--- | :--- |
+| **Mouse Drag** | Initialize and launch a Gaussian wavepacket with momentum $(p_x, p_y)$ |
+| **Space** | Pause / Resume time evolution |
+| **R** | Re-diagonalize the Hamiltonian (triggers after parameter changes) |
+| **V** | Toggle View Mode (Density $|\psi|^2$ $\leftrightarrow$ Phase $\arg(\psi)$) |
+| **P** | Cycle Phase Space Mode (Off $\to$ Husimi $\to$ Wigner) |
+| **C** | Cycle Colormaps |
 
 #### Adjustable parameters:
 
