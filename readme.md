@@ -5,6 +5,7 @@
 QuantumLab is an interactive numerical simulation of a two-dimensional quantum billiard system. It computes bound-state eigenfunctions and performs spectral time evolution inside a stadium-type domain inspired by:
 
 > E. J. Heller (1984). Bound-State Eigenfunctions of Classically Chaotic Hamiltonian Systems: Scars of Periodic Orbits.
+> ### PDF available above
 
 ## Governing Equation
 
