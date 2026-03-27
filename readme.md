@@ -7,6 +7,10 @@ QuantumLab is an interactive numerical simulation of a two-dimensional quantum b
 > E. J. Heller (1984). Bound-State Eigenfunctions of Classically Chaotic Hamiltonian Systems: Scars of Periodic Orbits.
 > ### PDF available above
 
+<tr>
+  <td><img src="media/quantumlab_demo.gif" width="800"></td>
+</tr>
+
 ## Governing Equation
 
 We solve the time-dependent Schrödinger equation (dimensionless units):
